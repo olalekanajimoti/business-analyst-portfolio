@@ -1,7 +1,0 @@
-Field,Type,Definition,Allowed values
-record_id,Text,Unique workflow record,REC-0001 format
-record_type,Category,Submission type,"Registration, Vendor, Volunteer, Lead"
-status,Category,Workflow state,"New, In review, Approved, Declined, Closed"
-owner,Text,Responsible team member,Named person
-communication_status,Category,Message state,"Pending, Sent, Failed"
-exception_reason,Text,Why manual action is needed,Free text from automation log

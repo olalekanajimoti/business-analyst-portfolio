@@ -6,6 +6,6 @@ I am an MBA-qualified professional with more than nine years of experience acros
 
 My strongest business-domain experience is in **retail and e-commerce**. My solution-domain strengths are **digital business analysis, transformation and process improvement**. I am particularly effective where customer needs, operational workflows, data and technology must be brought together into a clear, deliverable change.
 
-I have translated fragmented event operations into structured digital journeys, supported an e-commerce and Microsoft 365 transformation, used performance data to improve marketing decisions, and developed requirements for ticketing, tax, community, ESG and SME-commerce products.
+I have helped small businesses turn requests for a website into agreed goals and measurable results, translated fragmented event registration into structured digital journeys, supported an e-commerce and Microsoft 365 transformation, used performance data to improve marketing decisions, and developed requirements for ticketing, tax, community, ESG and SME-commerce products.
 
 My approach is to listen before defining, investigate before recommending and test before concluding.

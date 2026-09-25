@@ -2,12 +2,12 @@
 
 | Skill | Evidence | Case study |
 |---|---|---|
-| Discovery | Identified underlying ownership, hand-off and visibility problems behind technology requests | The Ecommerce Boss |
+| Discovery | Turned SME requests such as "we need a website" into agreed goals and success measures | The Ecommerce Boss |
 | Requirements elicitation | Converted user journeys into functional requirements and acceptance criteria | NaijaFoodFestival |
 | Stakeholder management | Tailored communication for owner, developers, creatives, users and providers | BOZ Jewelry |
 | Process mapping | Modelled as-is/to-be journeys and operational hand-offs | NaijaFoodFestival, CONVVA |
 | Options assessment | Compared manual, plug-in and automated approaches against cost and feasibility | The Ecommerce Boss |
-| Prioritisation | Organised scope and backlogs around business value and dependencies | Event automation, product cases |
+| Prioritisation | Organised scope and backlogs around business value and dependencies | The Ecommerce Boss, product cases |
 | UAT | Derived scenarios from requirements, documented issues and retested fixes | BOZ Jewelry, NaijaFoodFestival |
 | Data analysis | Interpreted engagement, traffic and conversion information | Creatrix Empire |
 | Change management | Supported users through demonstrations, feedback and new collaboration practices | BOZ Jewelry |

@@ -6,7 +6,7 @@ Use this index to select evidence for competency and behavioural questions.
 |---|---|---|
 | Communicating and influencing | BOZ Microsoft 365 and e-commerce change | Translate technical options and adapt communication to stakeholders |
 | Working together | NaijaFoodFestival | Create a shared view across organisers, developers and creatives |
-| Making effective decisions | The Ecommerce Boss automation | Compare options using cost, feasibility, data quality and effort |
+| Making effective decisions | The Ecommerce Boss SME engagements | Prioritise scope against a small budget using cost, feasibility and value |
 | Changing and improving | BOZ customer journey | Investigate friction, implement change and review outcomes |
 | Delivering at pace | NaijaFoodFestival launch | Separate journeys, clarify requirements and test before release |
 | Managing a quality service | Healthcare facilities analysis | Record facts, prioritise impact and escalate within procedure |

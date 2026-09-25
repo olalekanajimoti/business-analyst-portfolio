@@ -1,6 +1,6 @@
 # Business Analyst Portfolio: Olalekan Ajimoti
 
-[Website](https://my-portfolio-beta-rust-55.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti) · [GitHub](https://github.com/olalekanajimoti)
+[Website](https://olalekanajimoti.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti) · [GitHub](https://github.com/olalekanajimoti)
 
 > Business analysis for digital transformation, process improvement and customer-centred services.
 
@@ -38,8 +38,8 @@ My primary solution domain is **digital business analysis and transformation**. 
 3. [Creatrix Empire: Marketing Operations and Performance Analysis](01-delivered-case-studies/creatrix-marketing-analytics/README.md)  
    Multidisciplinary delivery workflows, campaign analysis, SEO improvement and reporting.
 
-4. [The Ecommerce Boss: Event Operations Automation](01-delivered-case-studies/ecommerce-boss-event-automation/README.md)  
-   Replacing disconnected forms, spreadsheets and email exchanges with traceable workflows.
+4. [The Ecommerce Boss: Business Analysis Consulting for Small Businesses](01-delivered-case-studies/ecommerce-boss-sme-consulting/README.md)  
+   Discovery, requirements and delivery for SMEs across marketing operations and web development, from "we need a website" to measurable results.
 
 5. [MyTicketSeller: Event Ticketing Platform, Built From Scratch to Live](01-delivered-case-studies/myticketseller-event-ticketing/README.md)  
    Owned from first build to a live multi-currency platform: payment reliability, per-currency revenue, refunds, team access and dispute evidence.
@@ -99,7 +99,7 @@ Read the [confidentiality and evidence statement](CONFIDENTIALITY.md) and [artef
 
 ## Contact
 
-- **Website:** [my-portfolio-beta-rust-55.vercel.app](https://my-portfolio-beta-rust-55.vercel.app)
+- **Website:** [olalekanajimoti.vercel.app](https://olalekanajimoti.vercel.app)
 - **LinkedIn:** [www.linkedin.com/in/olalekan-ajimoti](https://www.linkedin.com/in/olalekan-ajimoti)
 - **GitHub:** [github.com/olalekanajimoti](https://github.com/olalekanajimoti)
 

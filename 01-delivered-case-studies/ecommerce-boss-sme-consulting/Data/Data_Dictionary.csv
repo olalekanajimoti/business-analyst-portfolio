@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+lead_id,Text,Unique enquiry record,Auto-generated ID
+source_channel,Category,Where the enquiry came from,"Website, Instagram, WhatsApp, Referral, Ads"
+status,Category,Stage of the enquiry,"New, Contacted, Quoted, Won, Lost"
+owner,Text,Person responsible for the next step,Named staff member
+consent_status,Category,Marketing consent given,"Granted, Not granted"
+created_at,Datetime,When the enquiry arrived,ISO 8601
