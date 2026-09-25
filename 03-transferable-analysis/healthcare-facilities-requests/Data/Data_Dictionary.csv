@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+request_id,Text,Unique service request,REQ-0001 format
+issue_type,Category,Operational issue class,"Cleaning, Waste, Access, Supplies, Other"
+location,Text,Service location,Area code only
+reported_at,Datetime,Request time,ISO 8601
+priority,Category,Impact and urgency,"Immediate, High, Routine"
+status,Category,Request state,"Open, Escalated, Closed"

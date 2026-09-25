@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+task_id,Text,Controlled task identifier,Platform ID
+criteria_version,Text,Guidance version applied,vN
+criterion,Category,Evaluation dimension,"Factuality, Completeness, Reasoning, Adherence"
+rating,Category,Permitted decision,Per rubric scale
+rationale,Text,Evidence-based explanation,Must cite evidence
+quality_status,Category,Review state,"Not sampled, Agreed, Disagreed"
