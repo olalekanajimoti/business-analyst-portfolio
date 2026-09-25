@@ -1,6 +1,6 @@
 # Business Analyst Portfolio: Olalekan Ajimoti
 
-[LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti) · [GitHub](https://github.com/olalekanajimoti)
+[Website](https://my-portfolio-beta-rust-55.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti) · [GitHub](https://github.com/olalekanajimoti)
 
 > Business analysis for digital transformation, process improvement and customer-centred services.
 
@@ -99,6 +99,7 @@ Read the [confidentiality and evidence statement](CONFIDENTIALITY.md) and [artef
 
 ## Contact
 
+- **Website:** [my-portfolio-beta-rust-55.vercel.app](https://my-portfolio-beta-rust-55.vercel.app)
 - **LinkedIn:** [www.linkedin.com/in/olalekan-ajimoti](https://www.linkedin.com/in/olalekan-ajimoti)
 - **GitHub:** [github.com/olalekanajimoti](https://github.com/olalekanajimoti)
 
