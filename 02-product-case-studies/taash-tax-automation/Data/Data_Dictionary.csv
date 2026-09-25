@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+taxpayer_id,Text,Controlled user identifier,Internal ID
+taxpayer_type,Category,Classified route,"PAYE, Freelancer, BN, RC"
+income_value,Decimal,Declared income for the period,"Naira, 2 dp"
+evidence_status,Category,Evidence for each entry,"Uploaded, Pending, Not required"
+rule_version,Text,Rule table version applied,RULE-YYYY-NN
+journey_stage,Category,Filing progress,"File, Pay, Confirm, Certificate"

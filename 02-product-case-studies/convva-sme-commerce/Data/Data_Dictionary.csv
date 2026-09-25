@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+merchant_id,Text,Unique merchant,MER-0001 format
+product_id,Text,Unique product,PRD-0001 format
+channel,Category,Sales channel,"Storefront, Instagram, WhatsApp, Facebook"
+available_stock,Integer,Sellable quantity,0 or more
+order_status,Category,Order state,"Placed, Reserved, Paid, In fulfilment, Delivered, Cancelled"
+delivery_status,Category,Fulfilment state,"Awaiting pickup, In transit, Delivered, Failed"

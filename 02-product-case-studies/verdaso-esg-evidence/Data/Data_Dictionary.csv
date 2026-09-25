@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+evidence_id,Text,Unique evidence record,EVD-0001 format
+source_type,Category,Captured format,"Photo, PDF, CSV"
+capture_timestamp,Datetime,Creation time,ISO 8601
+location_metadata,Geospatial,Permitted source-proof location,Precision per organisation setting
+validation_status,Category,Review state,"Draft, Approved, Rejected, Superseded"
+framework_version,Text,Mapping used,Framework and version code

@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+event_id,Text,Unique event,EVT-0001 format
+ticket_id,Text,Unique ticket,"Random, non-sequential"
+owner_id,Text,Current ticket owner,User ID
+ticket_state,Category,Lifecycle state,"Reserved, Issued, Transferred, Refunded, Scanned, Void"
+payment_status,Category,Payment state,"Pending, Confirmed, Failed, Refunded"
+scan_timestamp,Datetime,First valid scan,ISO 8601

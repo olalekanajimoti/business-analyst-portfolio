@@ -1,0 +1,6 @@
+Field,Type,Definition,Allowed values
+user_id,Text,Controlled user identifier,Internal ID
+location_scope,Category,Chosen relevance area,"City, Region, Country"
+group_id,Text,Unique community group,GRP-0001 format
+verification_status,Category,Group trust state,"Unverified, Pending, Verified, Expired"
+report_status,Category,Moderation state,"Open, Under review, Actioned, Dismissed, Appealed"
