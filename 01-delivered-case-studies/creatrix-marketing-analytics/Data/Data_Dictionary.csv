@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+campaign_id,Text,Unique campaign,CMP-0001 format
+channel,Category,Delivery channel,"Instagram, TikTok, X, YouTube, Website"
+reach,Integer,Unique accounts reached,0 or more
+engagement,Integer,Recorded interactions,0 or more
+website_sessions,Integer,Attributed visits,0 or more
+conversion,Integer,Defined campaign outcome count,Defined per brief

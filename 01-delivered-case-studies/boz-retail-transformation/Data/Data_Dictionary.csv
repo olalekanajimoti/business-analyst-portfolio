@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+work_item_id,Text,Unique delivery item,WI-0001 format
+owner,Text,Responsible person or team,Named role
+status,Category,Current delivery state,"Not started, In progress, Blocked, Done"
+request_type,Category,Type of customer contact,"Routine question, Sales lead, Custom order, Complaint"
+custom_specification,Text,Confirmed custom-order details,Structured form fields
+confirmed_at,Datetime,Customer confirmation time,ISO 8601

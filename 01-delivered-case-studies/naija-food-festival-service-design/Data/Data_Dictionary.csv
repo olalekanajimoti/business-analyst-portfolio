@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+submission_id,Text,Unique application or registration,NFF-0001 format
+user_route,Category,Journey chosen,"Attendee, Vendor, Volunteer"
+submission_status,Category,Current workflow status,"Submitted, Under review, Approved, Declined, Allocated"
+decision_by,Text,Organiser who made the decision,Named organiser
+confirmation_sent,Boolean,Communication delivery status,"True, False"
+assigned_owner,Text,Responsible organiser,Named organiser
