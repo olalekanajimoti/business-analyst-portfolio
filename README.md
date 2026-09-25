@@ -47,10 +47,12 @@ My primary solution domain is **digital business analysis and transformation**. 
 6. [Komfort Place Signature: Spa Website, Booking Funnel and Analytics](01-delivered-case-studies/komfort-place-signature-digital-growth/README.md)  
    Social-media enquiries turned into a measured website-to-WhatsApp booking funnel with local SEO and first-party analytics.
 
+7. [Taash: Tax Automation Service](01-delivered-case-studies/taash-tax-automation/README.md)  
+   Nigerian tax rules turned into guided journeys, versioned decision rules and a transparent calculation, updated for the Nigeria Tax Act 2025.
+
 ### Product and venture case studies
 
-7. [IndulgeTix: Event Ticketing Platform](02-product-case-studies/indulgetix-ticketing-platform/README.md)
-8. [Taash: Tax Automation Service](02-product-case-studies/taash-tax-automation/README.md)
+8. [IndulgeTix: Event Ticketing Platform](02-product-case-studies/indulgetix-ticketing-platform/README.md)
 9. [Verdaso: ESG Evidence Infrastructure](02-product-case-studies/verdaso-esg-evidence/README.md)
 10. [CONVVA: African SME Commerce Platform](02-product-case-studies/convva-sme-commerce/README.md)
 

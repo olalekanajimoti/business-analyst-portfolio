@@ -4,7 +4,6 @@ These cases show product discovery, business rules and service-design work. Stat
 
 | Product | Status | Focus |
 |---|---|---|
-| [Taash](taash-tax-automation/README.md) | In development | Tax journeys, rules, evidence and compliance controls |
 | [IndulgeTix](indulgetix-ticketing-platform/README.md) | Product development | Ticket lifecycle, payments, scanning and settlement |
 | [CONVVA](convva-sme-commerce/README.md) | Concept/MVP | Omnichannel SME commerce and order operations |
 | [Verdaso](verdaso-esg-evidence/README.md) | Concept/MVP | ESG evidence capture, validation and reporting |

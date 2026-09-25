@@ -1,6 +1,6 @@
 # Taash: Tax Automation Service
 
-**Status:** In development  
+**Status:** Completed  
 **Business domain:** Tax technology and financial services  
 **Solution domain:** Product discovery, rules analysis and workflow automation  
 **Role:** Founder / Product Business Analyst
@@ -52,7 +52,7 @@ The As-Is process and the full diagram set are shown under Diagrams below.
 - Defined guided content for TIN, deductions, reforms and filing steps
 - Structured product requirements for BN, company and individual routes
 - Identified compliance, privacy, versioning and explanation risks
-- Planned Sanity CMS and Next.js content architecture
+- Designed the Sanity CMS and Next.js content architecture
 
 ## Key rules currently represented in product analysis
 

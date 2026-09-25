@@ -80,17 +80,17 @@ Functional requirements FR-01 to FR-09 are in the [FRD](Docs/FRD.pdf).
 
 | Test | Requirement | Given | When | Then | Status |
 |---|---|---|---|---|---|
-| UAT-01 | BR-01 | a user with salary and freelance income | they complete the questionnaire | they are asked to confirm their primary route | Planned |
-| UAT-02 | BR-02 | a user selects business name | the journey starts | the state route and its evidence list are shown | Planned |
-| UAT-03 | BR-02 | a user selects registered company | the journey starts | the federal company route is shown | Planned |
-| UAT-04 | BR-03 | a deduction without evidence | the user continues | the entry is flagged Pending | Planned |
-| UAT-05 | BR-04 | declared rent where 20% of it is below the ₦500,000 rent-relief cap (DR-06) | relief is calculated | the 20% value is applied and shown in the explanation | Planned |
-| UAT-06 | BR-04 | declared rent where 20% of it is above the ₦500,000 rent-relief cap (DR-06) | relief is calculated | the ₦500,000 cap is applied and shown | Planned |
-| UAT-07 | BR-05 | a rule changes effective date | a prior result is reopened | it keeps the original rule version | Planned |
-| UAT-08 | BR-06 | payment is confirmed | the tracker refreshes | the stage moves to Confirm with the next action | Planned |
-| UAT-09 | BR-07 | an unauthorised user | they request a taxpayer record | access is rejected and the event is logged | Planned |
-| UAT-10 | BR-08 | an unsupported case | the result is produced | the escalation option and limitation message appear | Planned |
-| UAT-11 | BR-09 | a draft guidance update | it is approved with a future effective date | users see it only from that date | Planned |
+| UAT-01 | BR-01 | a user with salary and freelance income | they complete the questionnaire | they are asked to confirm their primary route | Released |
+| UAT-02 | BR-02 | a user selects business name | the journey starts | the state route and its evidence list are shown | Released |
+| UAT-03 | BR-02 | a user selects registered company | the journey starts | the federal company route is shown | Released |
+| UAT-04 | BR-03 | a deduction without evidence | the user continues | the entry is flagged Pending | Released |
+| UAT-05 | BR-04 | declared rent where 20% of it is below the ₦500,000 rent-relief cap (DR-06) | relief is calculated | the 20% value is applied and shown in the explanation | Released |
+| UAT-06 | BR-04 | declared rent where 20% of it is above the ₦500,000 rent-relief cap (DR-06) | relief is calculated | the ₦500,000 cap is applied and shown | Released |
+| UAT-07 | BR-05 | a rule changes effective date | a prior result is reopened | it keeps the original rule version | Released |
+| UAT-08 | BR-06 | payment is confirmed | the tracker refreshes | the stage moves to Confirm with the next action | Released |
+| UAT-09 | BR-07 | an unauthorised user | they request a taxpayer record | access is rejected and the event is logged | Released |
+| UAT-10 | BR-08 | an unsupported case | the result is produced | the escalation option and limitation message appear | Released |
+| UAT-11 | BR-09 | a draft guidance update | it is approved with a future effective date | users see it only from that date | Released |
 
 ## Success measures
 
