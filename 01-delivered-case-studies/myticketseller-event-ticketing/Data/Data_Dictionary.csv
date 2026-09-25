@@ -1,0 +1,8 @@
+Field,Type,Definition,Allowed values
+order_id,Text,Unique ticket purchase,Gateway reference plus internal ID
+payment_status,Category,State of the purchase,"Pending, Completed, Failed, Refunded"
+currency,Category,Currency of the event and sale,"NGN, GBP, USD, EUR and others enabled"
+ticket_status,Category,State of an issued ticket,"Active, Transferred, Cancelled, Scanned"
+team_role,Category,Access granted to a team member,"door_staff, viewer, manager"
+tos_accepted_at,Datetime,When the buyer accepted the terms,ISO 8601
+scan_result,Category,Outcome of a scan,"Admitted, Duplicate, Invalid, Not your event"
