@@ -4,7 +4,7 @@
 
 > Business analysis for digital transformation, process improvement and customer-centred services.
 
-This portfolio presents selected work across **retail and e-commerce, event technology, digital marketing, public-service operations, AI evaluation and emerging digital products**. It shows how I move from an unclear business problem to evidence, requirements, improved workflows, tested solutions and measurable outcomes.
+This portfolio presents selected work across **retail and e-commerce, event technology and payments, wellness and hospitality, digital marketing, public-service operations, AI evaluation and emerging digital products**. It shows how I move from an unclear business problem to evidence, requirements, improved workflows, tested solutions and measurable outcomes.
 
 ## Professional profile
 
@@ -41,22 +41,27 @@ My primary solution domain is **digital business analysis and transformation**. 
 4. [The Ecommerce Boss: Event Operations Automation](01-delivered-case-studies/ecommerce-boss-event-automation/README.md)  
    Replacing disconnected forms, spreadsheets and email exchanges with traceable workflows.
 
+5. [MyTicketSeller: Event Ticketing Platform, Built From Scratch to Live](01-delivered-case-studies/myticketseller-event-ticketing/README.md)  
+   Owned from first build to a live multi-currency platform: payment reliability, per-currency revenue, refunds, team access and dispute evidence.
+
+6. [Komfort Place Signature: Spa Website, Booking Funnel and Analytics](01-delivered-case-studies/komfort-place-signature-digital-growth/README.md)  
+   Social-media enquiries turned into a measured website-to-WhatsApp booking funnel with local SEO and first-party analytics.
+
 ### Product and venture case studies
 
-5. [IndulgeTix: Event Ticketing Platform](02-product-case-studies/indulgetix-ticketing-platform/README.md)
-6. [Taash: Tax Automation Service](02-product-case-studies/taash-tax-automation/README.md)
-7. [IndulgeApp: Diaspora Community Platform](02-product-case-studies/indulgeapp-community-platform/README.md)
-8. [Verdaso: ESG Evidence Infrastructure](02-product-case-studies/verdaso-esg-evidence/README.md)
-9. [CONVVA: African SME Commerce Platform](02-product-case-studies/convva-sme-commerce/README.md)
+7. [IndulgeTix: Event Ticketing Platform](02-product-case-studies/indulgetix-ticketing-platform/README.md)
+8. [Taash: Tax Automation Service](02-product-case-studies/taash-tax-automation/README.md)
+9. [Verdaso: ESG Evidence Infrastructure](02-product-case-studies/verdaso-esg-evidence/README.md)
+10. [CONVVA: African SME Commerce Platform](02-product-case-studies/convva-sme-commerce/README.md)
 
 ### Transferable analytical work
 
-10. [Healthcare Facilities Request Handling](03-transferable-analysis/healthcare-facilities-requests/README.md)
-11. [AI Evaluation and Quality Analysis](03-transferable-analysis/ai-evaluation-quality/README.md)
+11. [Healthcare Facilities Request Handling](03-transferable-analysis/healthcare-facilities-requests/README.md)
+12. [AI Evaluation and Quality Analysis](03-transferable-analysis/ai-evaluation-quality/README.md)
 
 ## Standard artefact pack
 
-Every project folder follows the same structure, so a reviewer can compare cases quickly. Test status is shown honestly: Passed for delivered work, Planned for products in development or concept, and illustrative for generalised analysis.
+Every project folder follows the same structure, so a reviewer can compare cases quickly. Test status is shown honestly: Passed or Released (live in the product) for delivered work, Planned for products in development or concept, and illustrative for generalised analysis.
 
 | Folder | Included evidence |
 |---|---|
