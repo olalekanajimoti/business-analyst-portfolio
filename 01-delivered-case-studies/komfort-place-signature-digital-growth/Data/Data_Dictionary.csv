@@ -1,0 +1,7 @@
+Field,Type,Definition,Allowed values
+event,Text,Name of the tracked interaction,"whatsapp_click, page_view, chat_open"
+label,Text,Which button or element,Free text set by the page
+path,Text,Page where it happened,Site URL path
+referrer,Text,Where the visitor came from,URL or empty
+session_id,Text,Anonymous visit identifier,"Random ID, no personal data"
+created_at,Datetime,When it happened,ISO 8601
