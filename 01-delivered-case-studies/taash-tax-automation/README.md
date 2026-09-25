@@ -3,7 +3,7 @@
 **Status:** Completed  
 **Business domain:** Tax technology and financial services  
 **Solution domain:** Product discovery, rules analysis and workflow automation  
-**Role:** Founder / Product Business Analyst
+**Role:** Business Analyst (Contract)
 
 ## Executive summary
 

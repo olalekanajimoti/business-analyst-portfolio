@@ -3,7 +3,7 @@
 **Status:** Product development  
 **Business domain:** Event technology and payments  
 **Solution domain:** Product discovery, requirements engineering and service design  
-**Role:** Founder / Product Business Analyst
+**Role:** Product Business Analyst
 
 ## Product problem
 

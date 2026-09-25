@@ -3,7 +3,7 @@
 **Status:** Live  
 **Business domain:** Wellness and hospitality  
 **Solution domain:** Digital service design, conversion and analytics  
-**Role:** Digital Product Lead and Business Analyst
+**Role:** Business Analyst (Contract)
 
 ## Executive summary
 

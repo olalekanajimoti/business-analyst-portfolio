@@ -3,7 +3,7 @@
 **Status:** Concept/MVP design  
 **Business domain:** SME commerce and retail technology  
 **Solution domain:** Product discovery and omnichannel service design  
-**Role:** Founder / Product Business Analyst
+**Role:** Product Business Analyst
 
 ## Vision
 

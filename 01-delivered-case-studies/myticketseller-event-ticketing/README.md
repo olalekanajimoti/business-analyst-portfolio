@@ -3,11 +3,11 @@
 **Status:** Live  
 **Business domain:** Event technology and payments  
 **Solution domain:** Product ownership, requirements engineering and platform delivery  
-**Role:** Founder, Product Owner and Business Analyst
+**Role:** Product Owner and Business Analyst, HunterTV Africa
 
 ## Executive summary
 
-MyTicketSeller is a live event-ticketing platform for organisers selling to Nigerian and diaspora audiences. I have owned it since the first line of code in November 2024: two contract-built versions, a consolidation into one platform in August 2025, and an owner-led hardening phase from July 2026 that fixed how the product takes money, reports it and controls who gets in.
+MyTicketSeller is a live event-ticketing platform for organisers selling to Nigerian and diaspora audiences, delivered at HunterTV Africa. I have owned it since the first line of code in November 2024: two contract-built versions, a consolidation into one platform in August 2025, and an owner-led hardening phase from July 2026 that fixed how the product takes money, reports it and controls who gets in.
 
 The analytical challenge was that the most damaging problems were not visible as bugs. A buyer charged twice, an organiser whose pound sales were reported as naira and a door team sharing one login each looked like isolated complaints. Tracing them to root causes in payment timing, currency handling and access design is what turned them into requirements.
 

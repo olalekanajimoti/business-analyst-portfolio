@@ -3,7 +3,7 @@
 **Status:** Delivered across client engagements  
 **Business domain:** E-commerce, events and digital services  
 **Solution domain:** Process improvement, workflow automation and digital delivery  
-**Role:** Founder / Digital Business Analyst
+**Role:** Business Analyst
 
 ## Business problem
 

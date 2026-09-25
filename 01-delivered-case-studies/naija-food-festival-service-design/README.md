@@ -3,11 +3,11 @@
 **Status:** Delivered  
 **Business domain:** Events and hospitality  
 **Solution domain:** Service design, workflow automation and digital delivery  
-**Role:** Digital Project Manager / Business Analyst
+**Role:** Product Owner and Business Analyst, HunterTV Africa
 
 ## Executive summary
 
-The initial request was for a registration website. Discovery showed that this was not one journey: attendees, vendors and volunteers required different information, decisions, approvals, communications and operational hand-offs.
+NaijaFoodFestival was delivered at HunterTV Africa. The initial request was for a registration website. Discovery showed that this was not one journey: attendees, vendors and volunteers required different information, decisions, approvals, communications and operational hand-offs.
 
 Treating every user as part of a single registration process would have created incomplete data, confusing communications and unnecessary administrative work. I separated the service into three journeys and translated each into pages, forms, records, ticketing rules, automated emails and reporting needs.
 

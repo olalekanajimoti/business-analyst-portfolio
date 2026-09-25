@@ -8,7 +8,7 @@ This portfolio presents selected work across **retail and e-commerce, event tech
 
 ## Professional profile
 
-I am an MBA-qualified Business Analyst and digital-delivery professional with more than seven years of experience investigating operational problems, engaging stakeholders, modelling processes, defining requirements, coordinating delivery and evaluating results.
+I am an MBA-qualified Business Analyst and digital-delivery professional with more than nine years of experience investigating operational problems, engaging stakeholders, modelling processes, defining requirements, coordinating delivery and evaluating results.
 
 My primary solution domain is **digital business analysis and transformation**. My strongest established business domain is **retail and e-commerce**, supported by experience in event technology, marketing operations, healthcare support services, AI quality evaluation and early-stage digital products.
 
